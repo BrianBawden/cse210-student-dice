@@ -1,3 +1,4 @@
+
 # Dice
 Are you willing to risk everything? Play Dice and you might be surprised. 
 The rules are simple. Roll the dice. Count the ones and fives. Each one is 
@@ -35,3 +36,7 @@ root                    (project root folder)
 ## Authors
 ---
 * TODO: Add your name and email here
+
+W04 
+Dice by Brian Bawden
+brianbawden001@gmail.com
