@@ -1,4 +1,3 @@
-Dice by Brian Bawden
 
 # Dice
 Are you willing to risk everything? Play Dice and you might be surprised. 
@@ -37,3 +36,7 @@ root                    (project root folder)
 ## Authors
 ---
 * TODO: Add your name and email here
+
+W04 
+Dice by Brian Bawden
+brianbawden001@gmail.com
