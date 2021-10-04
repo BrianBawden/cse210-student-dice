@@ -1,3 +1,5 @@
+Dice by Brian Bawden
+
 # Dice
 Are you willing to risk everything? Play Dice and you might be surprised. 
 The rules are simple. Roll the dice. Count the ones and fives. Each one is 
