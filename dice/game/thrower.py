@@ -20,11 +20,7 @@ class thrower:
     def get_points(self):
 
         points = 0
-
-        if self.rolls == 1:
-            points += 100
-        elif self.rolls == 5:
-            points += 50
+        points = self.dice.count(1) * 100 + self.dice.count(5) * 50
 
         return points
         
@@ -32,6 +28,9 @@ class thrower:
     # you will need function called 'can_throw()'
     def can_throw(self):
 
-        if 1 in self.rolls:
+        if 1 in self.dice or 5 in self.dice:
+            return True
+        else:
+            return False
 
     
